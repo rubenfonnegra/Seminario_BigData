@@ -2,6 +2,7 @@
 <center> <img src="../Images/iupb_logo.png" width="500px"/> </center>
 
 
-# Sesión 3 - 
+# Sesión 3 - Aportes a propuestas de Investigación
 
-Descripción
+
+### **Profesor:** Ruben Darío Fonnegra
