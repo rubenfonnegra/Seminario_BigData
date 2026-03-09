@@ -37,7 +37,7 @@ En este repositorio contiene todo el material asociado al seminario de actualiza
         <tr>
             <td> 3 </td> 
             <td> Aportes a propuestas de Investigación </td> 
-            <td> Rubén Darío Fonnegra </td>
+            <td> <a href="https://github.com/rubenfonnegra">Rubén Darío Fonnegra</a> </td>
             <td> <a href="https://www.google.com">[Link]</a></td>
         </tr>
         <tr>
