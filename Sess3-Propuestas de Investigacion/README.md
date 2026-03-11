@@ -73,7 +73,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ### Code 
 
-Notebook available [here](https://github.com/rubenfonnegra/Seminario_BigData/tree/master/Sess3-Propuestas%20de%20Investigacion/sources/notebooks/Seminario_practico.ipynb)
+Notebook available [here](https://github.com/rubenfonnegra/Seminario_BigData/blob/master/Sess3-Propuestas%20de%20Investigacion/sources/notebooks/Seminario_practico.ipynb)
 
 
 ## Evaluating Whether a Project Generates Value
