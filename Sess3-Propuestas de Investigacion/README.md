@@ -75,6 +75,21 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 Notebook available [here](https://github.com/rubenfonnegra/Seminario_BigData/blob/master/Sess3-Propuestas%20de%20Investigacion/sources/notebooks/Seminario_practico.ipynb)
 
+### Docker environment
+A preconfigured environment has been provided to ensure that all code runs with the correct dependencies. This helps maintain reproducibility and avoids issues related to package versions or system configuration. To use this environment, you must first install Docker. You can follow the official installation guide here: 
+
+[https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+
+Once Docker is installed, download the container image by running the following command:
+
+```docker pull rubenfonnegra/sem-bd-docker```
+
+After downloading the image, you can start the container with:
+
+```docker run -p 8888:8888 sem-bd-docker```
+
+This command will launch a JupyterLab instance accessible from your browser. From there, you can upload the notebook files and execute the code within the prepared environment. Once the container is running, open the URL shown in the terminal to open your browser and navigate through the files. 
+
 
 ## Evaluating Whether a Project Generates Value
 
